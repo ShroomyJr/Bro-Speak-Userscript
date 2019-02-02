@@ -3,4 +3,4 @@ A Greasemonkey script that translate the language of everyday people into the il
 
 This userscript is only intended for use with American English.
 
-![Wikpedia Demo](wikipedia_man.png)
+![Wikpedia Demo](wikipedia_man.PNG)
